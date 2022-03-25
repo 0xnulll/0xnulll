@@ -14,8 +14,8 @@ Leading    : 🌟 🌟 🌟 🌟</br>
 Blockchain : 🌟 🌟 🌟 🌟</br>
 Coding/Data : 🌟 🌟 🌟 🌟</br>
 DevOps : 🌟 🌟 🌟 🌟</br>
-Hacking : 🌟 🌟 🌟 🌟</br>
-Problem Solving : 🌟 🌟 🌟 🌟
+Hacking : 🌟 🌟 🌟 🌟 🌟</br>
+Problem Solving : 🌟 🌟 🌟 🌟 🌟
 
 ## My Public Work 
  [<img src="https://www.messier.art/static/media/lightDesktop.f37431762082b58f1a6998427468a8bc.svg" alt="logo" height="25px" style="color:black;">](https://www.messier.art/)  &nbsp;&nbsp;  [<img src="https://delorean.money/static/media/00_dlogo_sized_colored.056af88a.png" alt="logo" height="20px" style="color:black;"> Delorean Money](https://delorean.money/)     &nbsp;&nbsp;&nbsp;&nbsp;    [TerraEscrowService](https://terraescrow.0xnull.site/)
