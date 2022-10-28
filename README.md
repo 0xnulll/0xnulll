@@ -7,7 +7,7 @@ Hey there! :wave:
 ![](https://komarev.com/ghpvc/?username=0xnulll&label=PROFILE+VIEWS&color=brightgreen)
 
 I am a **FullStack Engineer** with 10+ years of experiance who is kneen to make world a better place to live by contributing towards technology. I am passionate about building
-successful products, whether by being a hands-on or leading. Excellent problem solver, solution provider, currently contributing in terra blockchain projects in NFT Space.
+successful products, whether by being a hands-on or leading. Excellent problem solver, solution provider.
 I can assist in your tech problems or build something from scratch.
 
 Leading    : 🌟 🌟 🌟 🌟</br>
