@@ -65,23 +65,23 @@ Outside work: blockchain, light security research, hiking, and learning my way a
 
 ## `#case-studies`
 
-Real systems, real trade-offs — at **[anupkumar.dev/projects](https://anupkumar.dev/projects)**:
+Real systems, real trade-offs — at **[whoami.0xnull.in/projects](https://whoami.0xnull.in/projects)**:
 
-- [Scaling the Bolt+ Campaigns Platform](https://anupkumar.dev/projects/bolt-plus-campaigns-platform)
-- [Inventory State Machine @ Delivery Hero](https://anupkumar.dev/projects/delivery-hero-inventory)
-- [Real-time Routing @ HERE Technologies](https://anupkumar.dev/projects/here-routing)
-- [Knights & Dragons — Fantasy RPG Backend](https://anupkumar.dev/projects/knights-and-dragons-backend)
-- [Messier.art — NFT Marketplace on Terra](https://anupkumar.dev/projects/messier-art)
+- [Scaling the Bolt+ Campaigns Platform](https://whoami.0xnull.in/projects/bolt-plus-campaigns-platform)
+- [Inventory State Machine @ Delivery Hero](https://whoami.0xnull.in/projects/delivery-hero-inventory)
+- [Real-time Routing @ HERE Technologies](https://whoami.0xnull.in/projects/here-routing)
+- [Knights & Dragons — Fantasy RPG Backend](https://whoami.0xnull.in/projects/knights-and-dragons-backend)
+- [Messier.art — NFT Marketplace on Terra](https://whoami.0xnull.in/projects/messier-art)
 
 ## `#writing`
 
-Long-form, no fluff — at **[anupkumar.dev/blog](https://anupkumar.dev/blog)**:
+Long-form, no fluff — at **[whoami.0xnull.in/blog](https://whoami.0xnull.in/blog)**:
 
-- [Designing Idempotent Payment APIs](https://anupkumar.dev/blog/idempotent-payment-apis)
-- [Building a Distributed Rate Limiter with Redis](https://anupkumar.dev/blog/distributed-rate-limiter-redis)
-- [Circuit Breakers, Done Right](https://anupkumar.dev/blog/circuit-breakers-done-right)
-- [Scaling Node.js APIs to Handle Real Traffic](https://anupkumar.dev/blog/scaling-nodejs-apis)
-- [The Boolean Flag Graveyard: Modelling Domains with State Machines](https://anupkumar.dev/blog/state-machine-domain-modelling)
+- [Designing Idempotent Payment APIs](https://whoami.0xnull.in/blog/idempotent-payment-apis)
+- [Building a Distributed Rate Limiter with Redis](https://whoami.0xnull.in/blog/distributed-rate-limiter-redis)
+- [Circuit Breakers, Done Right](https://whoami.0xnull.in/blog/circuit-breakers-done-right)
+- [Scaling Node.js APIs to Handle Real Traffic](https://whoami.0xnull.in/blog/scaling-nodejs-apis)
+- [The Boolean Flag Graveyard: Modelling Domains with State Machines](https://whoami.0xnull.in/blog/state-machine-domain-modelling)
 
 ## `#hire-me`
 
@@ -92,11 +92,11 @@ Taking on a small number of engagements per month:
 - **DevOps & Cloud** — 3–8 weeks, CI/CD, K8s, cloud migrations · from $6k/mo
 - **Fractional Principal Engineer / Architect** — ongoing · $12k/mo or custom
 
-**1:1 coaching for engineers** — Europe/Canada career grooming & FAANG system-design mocks. Priced in ₹, not USD. → [anupkumar.dev/services](https://anupkumar.dev/services#engineers)
+**1:1 coaching for engineers** — Europe/Canada career grooming & FAANG system-design mocks. Priced in ₹, not USD. → [whoami.0xnull.in/services](https://whoami.0xnull.in/services#engineers)
 
 ```bash
 $ contact --open
-  → https://anupkumar.dev/contact
+  → https://whoami.0xnull.in/contact
   → anupkumar@live.in
   → DM on LinkedIn / X
 ```
