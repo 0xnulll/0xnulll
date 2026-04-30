@@ -17,11 +17,11 @@ currently: Pune, IN — taking on a few consulting & fractional engagements.
 
 </samp>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anupkumar.dev-3DD3F0?style=flat-square&logo=vercel&logoColor=white)](https://anupkumar.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-whoami-3DD3F0?style=flat-square&logo=vercel&logoColor=white)](https://whoami.0xnull.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-kumar-43295028/)
 [![X](https://img.shields.io/badge/X-@0xnulll-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xnulll)
 [![Email](https://img.shields.io/badge/Email-anupkumar%40live.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anupkumar@live.in)
-[![Calendly](https://img.shields.io/badge/Book%20a%20call-Calendly-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://anupkumar.dev/contact)
+[![Calendly](https://img.shields.io/badge/Book%20a%20call-Calendly-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/k2anup)  
 
 ---
 
